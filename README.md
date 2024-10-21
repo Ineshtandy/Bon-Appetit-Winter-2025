@@ -10,7 +10,7 @@ This project is for anyone who loves food and is planning to visit New York in t
 
 ### Google Cloud:
 The APIs used for supporting the development of this project are as follows:
-1. **Places API (New)
+1. **Places API (New)**
 2. **Geocoding API**
 3. **Geolocation API**
 4. **Maps JavaScript API**
